@@ -1,4 +1,4 @@
 #   System.out.println("Hello World!");
 
 Meu nome é Lucas Albuquerque Franco. No momento estou estudando 
-<img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" width="100" height="130"></img>
+<img src="https://w1.pngwing.com/pngs/425/99/png-transparent-java-logo-programming-language-selenium-computer-software-java-class-file-computer-programming-software-developer-software-framework.png" width="100" height="100"></img>
