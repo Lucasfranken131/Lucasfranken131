@@ -8,3 +8,4 @@ Na Faculdade Municipal de Palhoça<br><br>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="50" height="50"/>
 <img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/06/com029.jpg" width="50" height="50"/>
 <img src="https://friconix.com/png/fi-snsuxx-laravel.png" width="50" height="50"/>
+<img src="https://ih0.redbubble.net/image.2189776566.6167/raf,360x360,075,t,fafafa:ca443f4786.jpg" width="50" height="50"/>
