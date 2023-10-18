@@ -11,4 +11,4 @@ Na Faculdade Municipal de Palhoça<br><br>
 <img src="https://ih0.redbubble.net/image.2189776566.6167/raf,360x360,075,t,fafafa:ca443f4786.jpg" width="50" height="50"/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasfranken131&theme=github_dark&langs_count=14&custom_title=Minhas%20Linguagens&title_color=FFFFFF&text__color=FFFFFF&layout=compact&hide=jupyter%20notebook,portugol&exclude_repo=Portfolio-DS&card_width=290" alt="Linguagens de Lucasfranken131" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasfranken131&theme=github_dark&langs_count=14&custom_title=Minhas%20Linguagens&title_color=FFFFFF&text__color=FFFFFF&layout=compact&hide=jupyter%20notebook,portugol&exclude_repo=Portfolio-DS&card_width=300" alt="Linguagens de Lucasfranken131" align="left" />
