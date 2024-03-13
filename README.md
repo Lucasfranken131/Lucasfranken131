@@ -2,7 +2,7 @@
 <strong>Quem sou eu.</strong><br>
 Meu nome é Lucas Albuquerque Franco, tenho 20 anos. Atualmente cursando Análise e Desenvolvimento de Sistemas<br>
 Na Faculdade Municipal de Palhoça.<br>
-Atualmente estou trabalhando como jovem aprendiz na Intelbras.<br><br>
+Atualmente estou trabalhando como estagiário na Radek.<br><br>
 <strong>Minhas Skills:<br><strong>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="50" height="50"/>
 <img src="https://friconix.com/png/fi-snsuxx-laravel.png" width="50" height="50"/>
