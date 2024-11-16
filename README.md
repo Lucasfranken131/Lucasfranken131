@@ -1,8 +1,8 @@
 #   io.write("Hoy!")
 **Quem sou eu.**  
-Eu me chamo Lucas Albuquerque Franco, tenho 20 anos. Atualmente cursando Análise e Desenvolvimento de Sistemas  
-Na Faculdade Municipal de Palhoça.  
-No momento estou trabalhando como estagiário na Radek.
+Eu me chamo Lucas Albuquerque Franco, tenho 21 anos. Sou formado em Análise e Desenvolvimento de Sistemas  
+pela Faculdade Municipal de Palhoça.  
+No momento estou a procura de um emprego na área.
 
 **Minhas Skills:**  
 <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="50" height="50"/>
