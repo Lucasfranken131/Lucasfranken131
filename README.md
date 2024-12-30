@@ -1,6 +1,6 @@
 #   io.write("Hoy!")
 **Quem sou eu.**  
-Eu me chamo Lucas Albuquerque Franco, tenho 21 anos. Sou formado em Análise e Desenvolvimento de Sistemas  
+Eu me chamo Lucas Franco, tenho 21 anos. Sou formado em Análise e Desenvolvimento de Sistemas  
 pela Faculdade Municipal de Palhoça.  
 No momento estou a procura de um emprego na área.
 
