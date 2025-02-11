@@ -5,11 +5,9 @@ pela Faculdade Municipal de Palhoça.
 No momento estou a procura de um emprego na área.
 
 **Minhas Skills:**  
-<img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="50" height="50"/>
-<img src="https://friconix.com/png/fi-snsuxx-laravel.png" width="50" height="50"/>
-<img src="https://pbs.twimg.com/profile_images/1110148780991623201/vlqCsAVP_400x400.png" width="50" height="50"/>
-<img src="https://yt3.googleusercontent.com/1oQc-j55vr_tnNhIWvSTxSPeV9cPpZyC3IoTr4zl6oUvEK50z9PjtfvKfyL8qC-sNbcQQmYg=s900-c-k-c0x00ffffff-no-rj" width="50" height="50"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-rVnh-ss0tWd7Hoko1iy8b4ypZPGEwWi0Ng&usqp=CAU" width="50" height="50"/>
-<img src="https://www.katk.dev/static/86f2f48b9b0dd900b4892f49f4bbab81/e4f06/logo.png" width="50" height="50"/>
+<img src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" width="50" height="50"/>
+<img src="https://static-00.iconduck.com/assets.00/sdk-react-native-icon-512x490-ynyk8t4w.png" width="50" height="50"/>
+<img src="https://img.icons8.com/?size=512&id=54087&format=png" width="50" height="50"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsQKJrkgkZqkkVUXnYdqATpo6PjVWKG8N1GA&s" width="50" height="50"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasfranken131&theme=github_dark&langs_count=8&custom_title=Minhas%20Linguagens&title_color=FFFFFF&text__color=FFFFFF&layout=compact&hide=jupyter%20notebook,portugol&exclude_repo=Portfolio-DS&card_width=320" alt="Linguagens de Lucasfranken131" align="left" />
